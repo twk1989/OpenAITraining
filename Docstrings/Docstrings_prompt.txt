@@ -1,0 +1,5 @@
+def hello(name):
+    print(f"Hello {name}")
+
+# A high quality python docstring of the above Python function:
+"""

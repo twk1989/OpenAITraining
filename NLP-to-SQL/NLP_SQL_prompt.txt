@@ -1,0 +1,16 @@
+Given the following sqlite SQL definition, write queries based on the request
+### sqlite SQL table, with its properties:
+#
+# Sales(ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE)
+#
+### A query to answer: total sales
+SELECT
+
+
+Given the following sqlite SQL definition, write queries based on the request
+### sqlite SQL table, with its properties:
+#
+# Sales(ORDERNUMBER,QUANTITYORDERED,PRICEEACH,ORDERLINENUMBER,SALES,ORDERDATE,STATUS,QTR_ID,MONTH_ID,YEAR_ID,PRODUCTLINE,MSRP,PRODUCTCODE,CUSTOMERNAME,PHONE,ADDRESSLINE1,ADDRESSLINE2,CITY,STATE,POSTALCODE,COUNTRY,TERRITORY,CONTACTLASTNAME,CONTACTFIRSTNAME,DEALSIZE)
+#
+### Reply me only the SQL query code without ```sql block notation to answer: "total sales per quarter". If you are not sure about the request, answer me "Invalid Request"
+SELECT
